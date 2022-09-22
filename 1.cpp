@@ -21,6 +21,7 @@ int main(){
     // }
     char c= '2';
     cout<<stoi(c);
+    cout<<"hello";
 
 
     return 0;
