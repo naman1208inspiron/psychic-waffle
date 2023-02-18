@@ -18,7 +18,7 @@ int main(){
         for(char it: s){
             if(it =='U'){ y+=1;}
             else if(it =='R') x+=1;
-            else if(it =='L') x-=1;
+            else if(it =='L') x-=1; dffffffffff dfsdf dsf d
             else if(it =='D') y-=1;
 
             if(x==1 && y==1){
@@ -34,3 +34,5 @@ int main(){
 
     return 0;
 }
+
+if(v[krr[i]].size() == 0 && (((1<<krr[i])&l1) == 0)) b = 0;
