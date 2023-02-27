@@ -5,20 +5,6 @@ using namespace std;
 typedef long long ll;
 typedef long double ld;
 
-// void putafter(string &ans, char c, int cnt)
-// {
-//     for (int i = 0; i < cnt; i++)
-//     {
-//         ans += c;
-//     }
-// }
-// void putbefore(string &ans, char c, int cnt)
-// {
-//     for (int i = 0; i < cnt; i++)
-//     {
-//         ans = c + ans;
-//     }
-// }
 
 signed main()
 {
@@ -27,7 +13,7 @@ signed main()
     cout.tie(0);
 
     int t = 1;
-    // string m = string(3 , 'A'+1);
+    // string m = string(3 , 'b');
     // cout<<m;
     while (t--)
     {
